@@ -1,0 +1,26 @@
+{
+  "name": "api-hamburguer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Jonatas Torres - T10",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.3",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/dotenv-safe": "^8.1.2",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}

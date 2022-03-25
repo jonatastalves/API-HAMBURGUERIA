@@ -55,22 +55,22 @@ ________________________________________________________________________________
 ```
 
 <h4>Observações:</h4>
- ✔ será gerado automaticamente um campo chamado ID no arquivo (database.sqlite) para realização do CRUD.
+será gerado automaticamente um campo chamado ID no arquivo (database.sqlite) para realização do CRUD.
 
 ________________________________________________________________________________________________________________
 
 <b>[PUT] </b> /cliente/:id - A rota atualizará o cliente com as informações passadas no corpo da requisição<br>
 
 <h4>Observações:</h4>
- ✔ Você poderar alterar o campo que achar necessário no cliente.<br>
- ✔ para encontrar o id você pode realizar um GET anteriormente!
+Você poderar alterar o campo que achar necessário no cliente.<br>
+Para encontrar o id você pode realizar um GET anteriormente!
 
 ________________________________________________________________________________________________________________
 
 <b>[DELETE] </b> /Endereco/:id - A rota deletará baseado em seu ID.<br>
 
 <h4>Observações:</h4>
- ✔ O ID se encontra no arquivo (database.sqlite) ou será exibido quando efetuar um GET.
+O ID se encontra no arquivo (database.sqlite) ou será exibido quando efetuar um GET.
 
 ________________________________________________________________________________________________________________
 
@@ -93,5 +93,6 @@ Foi adicionada as seguintes validações para os dados recebidos nas requisiçõ
 <img src="./readme/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Logo" width="100">
 </p>
 
+<br>
 
 <p align="center"><img src="./readme/giphy.gif" alt="hamburger-dance-Gif" width=""></p>

@@ -1,15 +1,11 @@
-<br />
 <p align="center">
   <h1 align="center">API REST - Hamburgueria</h1>
-  
-  <img src="./readme/topo.gif" alt="Logo" width="500">
- 
- <br />
-  
-  </p>
 </p>  
-  
- 
+
+<p align="center">
+  <img src="./readme/topo.gif" alt="Logo" width="500">  
+</p>  
+
 # Pré-requisitos:
 
 ### Instalando e executando a API:

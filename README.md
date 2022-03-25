@@ -1,11 +1,15 @@
 <br />
 <p align="center">
-  <h1 align="center">API REST - Hamburgueria (Módulo 4 - Resilia Educação</h1>
+  <h1 align="center">API REST - Hamburgueria</h1>
   
   <img src="./readme/topo.gif" alt="Logo" width="500">
  
-</p>
-
+ <br />
+  
+  </p>
+</p>  
+  
+ 
 # Pré-requisitos:
 
 ### Instalando e executando a API:
